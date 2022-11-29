@@ -1,2 +1,2 @@
 # DataScience
-1. First project contatins notebooks from my learning period
+Projects I did so far during data science learning process.
